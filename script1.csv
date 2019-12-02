@@ -1,0 +1,584 @@
+character A,character B,TEXT
+Scrimgeour,Reporters,"These are dark times, there is no denying.Our world has, perhaps,faced no greater threat than it does today.But I say this to our citizenry:We, ever your servants…...will continue to defend your liberty…...and repel the forces that seek to take it from you. Your Ministry remains......strong."
+Mrs. Granger,Hermoine,"Hermione. Tea's ready, darling."
+Hermoine,Mrs. Granger,"Coming, Mom."
+Vernon,Dudley,"Come on, Dudley, hurry up."
+Dudley,Vernon,I still don't understand why we have to leave.
+Vernon,Dudley,"Because, unh, it's not safe for us here anymore."
+Molly,Ron,"Ron, tell your father supper's nearly ready."
+Mr. Granger,Mrs. Granger,Is this in Australia?
+Mrs. Granger,Mr. Granger,"Looks wonderful, doesn't it?"
+Voldermort,Snape,"Snape. I was beginning to worry you had lost your way. Come, we've saved you a seat. You bring news, I trust?"
+Snape,Voldermort,"It will happen Saturday next, at nightfall."
+Yaxley,Voldermort,"I've heard differently, my Lord. Dawlish, the Auror, has let slip that the Potter boy…...will not be moved until the 30th of this month. The day before he turns 17."
+Snape,Voldermort,This is a false trail. The Auror Office no longer plays any part in the protection ofHarry Potter. Those closest to him believe we have infiltrated the Ministry.
+Voldermort,Plus,"What say you, Pius?"
+Plus,Voldermort,"One hears many things, my Lord. Whether the truth is among them is not clear."
+Voldermort,Plus,"Heh. Spoken like a true politician. You will, I think, prove most useful, Pius."
+Voldermort,Snape,"Where will he be taken, the boy?"
+Snape,Voldermort,"To a safe house. Most likely the home of someone in the Order. I'm told it's been given every manner of protection possible. Once there, it will be impractical to attack him."
+Bellatrix,Voldermort,Ahem. My Lord. I'd like to volunteer myself for this task. I want to kill the boy.
+Voldermort,Wormtail,Wormtail! Have I not spoken to you about keeping our guest quiet?
+Wormtail,Voldermort,"Yes, my Lord. Right away, my Lord."
+Voldermort,Bellatrix,"As inspiring as I find your bloodlust, Bellatrix…...I must be the one to killHarry Potter."
+Voldermort,Lucius,"What about you, Lucius?"
+Lucius,Voldermort,My Lord?
+Voldermort,Lucius,My Lord? I require your wand.
+Voldermort,Lucius,Do I detect elm?
+Lucius,Voldermort,"Yes, my Lord."
+Voldermort,Lucius,And the core?
+Lucius,Voldermort,"Dragon. Ahem. Dragon heartstring, my Lord."
+Burbage,Snape,"Snape. Snape, please. We're friends."
+Voldermort,Nagini,Nagini. Dinner.
+Hagrid,Harry,"Hello,Harry."
+Harry,Ron,All right. Wow.
+Harry,Hermoine,Hello.
+Hagrid,Harry,You're looking fit.
+Moody,Hagrid,"Yeah, he's absolutely gorgeous. What say we get undercover before someone murders him?"
+Harry,Moody,Evening
+Harry,Shacklebolt,I thought you were looking after the Prime Minister.
+Shacklebolt,Harry,You are more important.
+Bill Weasely,Harry,HelloHarry. Bill Weasely.
+Harry,Bill Weasely,Oh. Pleasure to meet you.
+Fred,Harry,He was never always this handsome. 
+George,Harry,Dead Ugly
+Bill Weasely,George,True Enough
+Bill Weasely,Harry,"Owe it all to a werewolf, name of Greyback. Hope to repay the favor one day."
+Fleur,Bill Weasely,"You're still beautiful to me, Bill Weasely."
+Lupin,Harry,"Just remember, Fleur, Bill Weasely takes his steaks on the raw side now. "
+Nymphadora,Harry,"By the way, wait till you hear the news. Remus and l…"
+Moody,Harry,"Potter, you're underage, which means you've still got the Trace on you."
+Harry,Moody,What's the Trace?
+Moody,Harry,"If you sneeze, the Ministry will know who wipes your nose. We have to use those means of transport the Trace can't detect: Brooms, Thestrals and the like. We go in pairs. That way, if anyone's out there waiting for us, and I reckon there will be…...they won't know whichHarry Potter is the real one."
+Harry,Moody,The real one?
+Moody,Harry,I believe you're familiar with this particular brew.
+Harry,Moody,No. Absolutely not.
+Hermoine,Moody,I told you he'd take it well.
+Harry,Moody,"No, if you think I'm gonna let everyone risk their lives for me, l…"
+Ron,Harry,"Never done that before, have we?"
+Harry,Ron,"No. No. This is different. I mean, taking that, becoming me. No."
+Fred,Harry,"Well, none of us really fancy it, mate."
+George,Harry,"Imagine if something went wrong, and we ended up a scrawny, specky git forever."
+Moody,Harry,"Everyone here is of age, Potter. They've all agreed to take the risk."
+Moody,Harry,"Technically, I've been coerced. Moody Fletcher, Mr. Potter. Always been a huge admirer"
+Moody,Moody,"Nip it, Moody"
+Moody,Hermoine,"All right, Granger, as discussed."
+Harry,Hermoine,"Blimey, Hermoine"
+Moody,Hermoine,"Straight in here, if you please"
+Fred,Moody,"Have a lot of experiences with that, do you, Mad-Eye? Just trying to diffuse the tension."
+George,Fred,"Wow, we're identical."
+Moody,George,"Not yet, you're not."
+George,Moody,"Haven't got anything a bit more sporting, have you?"
+Fred,Moody,I don't really fancy this color.
+Moody,Fred,"Well, fancy this, you're not you. So shut it and strip."
+Moody,Moody,"All right, all right."
+Moody,Harry,"You'll need to change too, Potter."
+Fleur,Bill Weasely,"Bill Weasely, look away. I'm hideous."
+Ron,Bill Weasely,I knew she was lying about that tattoo.
+Hermoine,Harry,"Harry, your eyesight really is awful."
+Moody,Moody,"Moody, stick tight to me. I wanna keep an eye on you."
+Moody,Harry,"As forHarry, where the devil are you anyway?"
+Harry,Moody,Here
+Moody,Harry,You'll ride with Hagrid.
+Hagrid,Harry,I brought you here 16 years ago when you were no bigger than a Bowtruckle. Seems only right that I should be the one to take you away now.
+Moody,Hagrid,"Yes, it's all very touching. Let's go."
+Hagrid,Harry,"Hold tight,Harry."
+Harry,Hagrid,"Hagrid, we have to help the others!"
+Hagrid,Harry,"I can't do that,Harry. Mad-Eye's orders. Hang on."
+Hagrid,Harry,"Hang on,Harry."
+Voldermort,Harry,Harry 
+Molly,Harry,Harry
+Molly,Hagrid,Hagrid
+Molly,Hagrid,What happened? Where are the others?
+Harry,Molly,Is no one else back?
+Hagrid,Molly,"They were on us right from the start, Molly. We didn't stand a chance."
+Molly,Hagrid,"Well, thank goodness you two are all right. "
+Hagrid,Molly,The Death Eaters were waiting for us. It was an ambush.
+Ginny,Harry,Ron and Nymphadora should've already been back. Dad and Fred as well.
+Lupin,Harry,Here! Quick. Into the house.
+Ginny,Lupin,What are you doing?
+Lupin,Harry,What creature sat in the corner......the first timeHarry Potter visited my office in Hogwarts?
+Harry,Lupin,Are you mad?!
+Lupin,Harry,- What creature?!
+Harry,Lupin,A Grindylow.
+Lupin,Harry,Wait
+Shacklebolt,Lupin,The last words Albus Dumbledore spoke to the pair of us?
+Lupin,Shacklebolt,Harry is the best hope we have. Trust him.
+Shacklebolt,Harry,What gave you away?
+Harry,Shacklebolt,"Hedwig, I think. She was trying to protect me."
+Ron,Hermoine,Thanks
+Nymphadora,Hermoine,"Deserves that. Brilliant, he was. I wouldn't be standing here without him."
+Hermoine,Nymphadora,Really?
+Ron,Hermoine,Always the tone of surprise.
+Arthur,Lupin,We the last back?
+Fred,Lupin,Where's George?
+Fred,George,"How you feeling, Georgie?"
+George,Fred,Saint-like.
+Fred,George,Come again?
+George,Fred,"Saint-like. I'm holy. I'm holey, Fred. Get it?"
+Fred,George,"The whole wide world of ear-related humor and you go for ""I'm holey."" That's pathetic."
+George,Fred,Reckon I'm still better-Iooking than you.
+Dumbledore,Harry,This is beyond anything I imagined
+Harry,Dumbledore,They could be hidden anywhere.
+Harry,Dumbledore,if you did destroy each Horcrux…
+Dumbledore,Harry,One destroys Voldemort
+Voldermort,Ollivander,"You lied to me. Lied to me, Ollivander"
+Ron,Harry,Going somewhere?
+Harry,Ron,Nobody else is going to die. Not for me.
+Ron,Harry,"For you? You think Mad-Eye died for you? You think George took that curse for you? You may be the Chosen One, mate, but this is a whole lot bigger than that. It's always been bigger than that."
+Harry,Ron,Come with me
+Ron,Harry,"What, and leave Hermoine? You mad? We wouldn't last two days without her. Don't tell her I said that. Besides, you've still got the Trace on you. - We've still got the wedding…"
+Harry,Ron,"I don't care about a wedding. I'm sorry. No matter whose it is. I have to start finding these Horcruxes. They're our only chance to beat him…...and the longer we stay here, the stronger he gets."
+Ron,Harry,"Tonight's not the night, mate. We'd only be doing him a favor. Do you think he knows? I mean, they're bits of his soul, these Horcruxes. Bits of him. When Dumbledore destroyed the ring, you destroyed Tom Riddle's diary…...he must have felt something. To kill the other Horcruxes, we have to find them. Where are they? Where do we start?"
+Fred,Ron,Ready when you are.
+Arthur,Ron,Please pay attention! It's your brother's wedding. Buck up.
+Ginny,Harry,"Zip me up, will you? It seems silly, doesn't it, a wedding? Given everything that's going on."
+Harry,Ginny,Maybe that's the best reason to have it......because of everything that's going on.
+George,Harry,Morning
+Arthur,Fred,"How's it looking at your end, boys?"
+George,Arthur,Brilliant
+Harry,Scrimgeour,"To what do we owe the pleasure, Minister?"
+Scrimgeour,Harry,"I think we both know the answer to that question, Mr. Potter."
+Ron,Scrimgeour,And this is?
+Scrimgeour,Ron,"First, to Ronald Bilius Weasley…...I leave my Deluminator…...a device of my own making…...in the hope that, when things seem most dark…...it will show him the light."""
+Ron,Scrimgeour,Dumbledore left this for me?
+Scrimgeour,Ron,Yeah 
+Ron,Scrimgeour,Brilliant. What is it? Wicked.
+Scrimgeour,Hermoine,To Hermione Jean Granger...I leave my copy of The Tales of Beedle the Bard…in the hope that she find it entertaining and instructive.
+Scrimgeour,Harry,ToHarry James Potter….I leave the Snitch he caught in his first Quidditch match at Hogwarts…as a reminder of the rewards of perseverance...and skill.
+Harry,Scrimgeour,"Is that it, then?"
+Scrimgeour,Harry,"Not quite. Dumbledore left you a second bequest: The sword of Godric Gryffindor. Unfortunately, the sword of Gryffindor was not Dumbledore's to give away. As an important historical artifact, it belongs…"
+Hermoine,Scrimgeour,ToHarry. It belongs toHarry. It came to him when he needed it in the Chamber of Secrets.
+Scrimgeour,Hermoine,"The sword may present itself to any worthy Gryffindor. That does not make it that wizard's property. And, in any event, the current whereabouts of the sword are unknown."
+Harry,Scrimgeour,Excuse me?
+Scrimgeour,Harry,"The sword is missing. I don't know what you're up to, Mr. Potter…...but you can't fight this war on your own. He's too strong."
+Luna,Harry,"Hello,Harry. I've interrupted a deep thought, haven't I? I can see it growing smaller in your eyes."
+Harry,Luna,"Of course not. How are you, Luna?"
+Luna,Harry,Very well. Got bitten by a garden gnome only moments ago. 
+Lovegood,Harry,Gnome saliva is very beneficial. We live just over the hill.
+Harry,Lovegood,"Pleasure to meet you, sir."
+Lovegood,Harry,"I trust you know, Mr. Potter, that we at the Quibbler.....unlike those toadies at the Daily Prophet ...fully supported Dumbledore in his lifetime…...and, in his death, support you just as fully."
+Harry,Lovegood,Thank you.
+Luna,Lovegood,"Come, Daddy.Harry doesn't want to talk to us right now. He's just too polite to say so."
+Harry,Elphias,"Excuse me, sir? May I sit down?"
+Elphias,Harry,Mr. Potter. By all means. Here.
+Harry,Elphias,Thanks. I found what you wrote in the Daily Prophet really moving. You obviously knew Dumbledore well.
+Elphias,Harry,"Well, I certainly knew him the longest. That is, if you don't count his brother, Aberforth…...and somehow, people never do seem to count Aberforth."
+Harry,Elphias,I didn't even know he had a brother.
+Elphias,Harry,"Well, Dumbledore was always very private, even as a boy."
+Muriel,Elphias,"Don't despair, Elphias. I'm told he's been thoroughly unriddled by Rita Skeeter…...in 800 pages, no less. Word has it that someone talked to her. Someone who knew the Dumbledore family well. Both you and I know who that is, Elphias."
+Elphias,Muriel,A monstrous betrayal.
+Harry,Muriel,Who are we talking about?
+Muriel,Harry,Bathilda Bagshot.
+Harry,Muriel,Who?
+Muriel,Harry,"My God, boy......she's only the most celebrated magical historian of the last century. She was as close to the Dumbledores as anyone. Oh, I'm sure Rita Skeeter thought it well worth a trip to Godric's Hollow…...to take a peek into that old bird's rattled cage."
+Harry,Muriel,Godric's Hollow? Bathilda Bagshot lives at Godric's Hollow?
+Muriel,Harry,"Well, that's where she first met Dumbledore."
+Harry,Muriel,You don't mean to say he lived there too?
+Muriel,Harry,"The family moved there after his father killed those three Muggles. Oh, it was quite the scandal. Honestly, my boy, are you sure you knew him at all?"
+Elphias,Harry,"Nice meeting you, Mr. Potter."
+Harry,Ginny,Ginny!
+Lupin,Harry,Harry! Go!
+Ron,Hermoine,Where are we?
+Hermoine,Ron,Shaftesbury Avenue. I used to come to the theater here with Mom and Dad. I don't know why I thought of it. It just popped into my head. This way.
+Ron,Hermoine,How the ruddy?
+Hermoine,Ron,Undetectable Extension Charm.
+Ron,Hermoine,"You're amazing, you are."
+Hermoine,Ron,Always the tone of surprise.
+Harry,Ron,What about all the people at the wedding? Do you think we should go back?
+Ron,Harry,They were after you. We'd put everyone in danger by going back.
+Hermoine,Harry,Ron's right.
+Ron,Harry,So where do we go from here? Leaky Cauldron?
+Hermoine,Ron,"It's too dangerous. If Voldemort has taken over the Ministry, none of the old places are safe. Everyone from the wedding will have gone underground, into hiding."
+Harry,Hermoine,"My rucksack with all my things, I've left it at the Burrow. You're joking."
+Hermoine,Harry,"I've had all the essentials packed for days, just in case."
+Ron,Hermoine,"By the way, these jeans, not my favorite."
+Harry,Ron,Down!
+Harry,Ron,"Lock the door, get the lights. This one's name is Rowle. He was on the Astronomy Tower the night Snape killed Dumbledore."
+Ron,Harry,This is Dolohov. I recognize him from the wanted posters.
+Ron,Dolohov,"So, what we gonna do with you, hey?  Kill us if it was turned round, wouldn't you?"
+Harry,Ron,"If we kill them, they'll know we were here."
+Hermoine,Ron,Ron
+Ron,Hermoine,Suppose he did Mad-Eye. How would you feel then?
+Harry,Ron,It's better we wipe their memories.
+Ron,Harry,You're the boss.
+Ron,Hermoine,Hermione......you're the best at spells.
+Harry,Hermoine,How is it they knew we were there?
+Hermoine,Harry,Maybe you still have the Trace on you?
+Ron,Hermoine,Can't be. Trace breaks at 17. It's wizarding law. What?
+Hermoine,Harry,"We didn't celebrate your birthday,Harry. Ginny and I, we prepared a cake. We were going to bring it out at the end of the wedding."
+Harry,Hermoine,"I appreciate the thought, but given the fact that we were almost killed…...by a couple of Death Eaters a few minutes ago…"
+Hermoine,Harry,Right. Perspective.
+Ron,Harry,"We need to get off the streets, get somewhere safe."
+Ron,Hermoine,What was that all about?
+Hermoine,Ron,"Probably Mad-Eye's idea, in case Snape decided to come snooping."
+Ollivander,Voldermort,I believed another wand..
+Voldermort,Ollivander,You lied to me.
+Ollivander,Voldermort,"It makes no sense. I believed a different wand would work, I swear. There must be another way."
+Hermoine,Ron,Lovely. Regulus Arcturus Black.
+Ron,Harry,R.A.B.
+Ron,Harry,R.A.B. Is Sirius's brother.
+Hermoine,Ron,"Yes. Question is, did he actually destroy the real Horcrux?"
+Harry,Kreacher,"You've been spying on us, have you?"
+Kreacher,Harry,Kreacher has been watching.
+Hermoine,Harry,Maybe he knows where the real locket is.
+Harry,Kreacher,Have you ever seen this before? Kreacher?
+Kreacher,Harry,It's Master Regulus' locket.
+Harry,Kreacher,"But there were two, weren't there? Where's the other one?"
+Kreacher,Harry,Kreacher doesn't know where the other locket is.
+Hermoine,Kreacher,"Yes, but did you ever see it? Was it in this house?"
+Kreacher,Hermoine,Filthy Mudblood. Death Eaters are coming - 
+Hermoine,Ron,Ron
+Kreacher,Ron,"Blood traitor, Weasley."
+Harry,Kreacher,Answer her
+Kreacher,Harry,Yes. It was here in this house. A most evil object.
+Harry,Kreacher,How do you mean?
+Kreacher,Harry,"Before Master Regulus died, he ordered Kreacher to destroy it…...but no matter how hard Kreacher tried, he could not do it."
+Harry,Kreacher,"Well, where is it now? Did someone take it?"
+Kreacher,Harry,"He came in the night. He took many things, including the locket."
+Harry,Kreacher,"Who did? Who was it, Kreacher?"
+Kreacher,Harry,Moody. Moody Fletcher.
+Harry,Kreacher,Find him
+Hermoine,Ron,Be a bit gentler
+Hermoine,Harry,"They have flesh memories. When Scrimgeour first gave it to you, I thought it might open at your touch. That Dumbledore had hidden something inside it."
+Dobby,Harry,"Harry Potter, so long it's been."
+Kreacher,Harry,"As requested, Kreacher has returned with the thief…...Moody Fletcher."
+Moody,Harry,What you playing at? Setting a pair of bleeding house-elves after me.
+Dobby,Harry,"Dobby was only trying to help. Dobby saw Kreacher in Diagon Alley, which Dobby thought was curious. And then Dobby heard Kreacher mentionHarry Potter's name. And then Dobby saw Kreacher ...talking with the thief, Moody…"
+Moody,Dobby,I'm no thief. You foul little... Git.
+Moody,Harry,I'm a purveyor of rare and wondrous objects.
+Ron,Moody,"You're a thief, Dung. Everyone knows it."
+Dobby,Ron,"Master Weasley, so good to see you again."
+Kreacher,Moody,You…
+Hermoine,Moody,Tell the truth
+Harry,Moody,"When you turned this place over...Don't deny it. You found a locket, am I right?"
+Moody,Harry,Why? Was it valuable?
+Hermoine,Moody,You still got it?
+Ron,Hermoine,"No, he's worried he didn't get enough money for it."
+Harry,Moody,Who was she? The witch. Do you know?
+Hermoine,Harry,"Right, remember what we said. Don't speak to anyone unless absolutely necessary."
+Hermoine,Ron,"Just try and act normal. Do what everybody else is doing. If we do that, then with a bit of luck, we'll get inside."
+Harry,Hermoine,This is completely mental
+Hermoine,Harry,Completely
+Ron,Hermoine,The world's mental. Come on…...we've got a Horcrux to find.
+Ron,Harry,We flush ourselves in. That's bloody disgusting.
+Harry,Hermoine,Are those?
+Hermoine,Harry,"Muggles, In their rightful place."
+Ron,Harry,"Gotta tell you, I'm starting to freak out a bit."
+Harry,Hermoine,"How long did you say this batch of Polyjuice would last, Hermione?"
+Hermoine,Harry,I didn't.
+Harry,Ron,"Ron, you don't have a wife."
+Ron,Harry,But how do I stop it raining?
+Hermoine,Ron,"Try  FiniteIncantatemspell. This is you, Ron."
+Ron,Hermoine,And if that doesn't work?
+Harry,Hermoine,If we don't locate Umbridge within the hour…...we go find Ron and come back another day. Deal?
+Hermoine,Harry,Yes
+Harry,Ron,"Ron, it's me."
+Ron,Harry,"Harry. Blimey, forgot what you looked like. Where's Hermione?"
+Harry,Hermoine,"She's gone down to the courtrooms, with Umbridge."
+Ron,Harry,Bloody cold down here.
+Umbridge,Mary,"Mary Elizabeth Cattermole? Of 27 Chislehurst Gardens, Great Tolling, Evesham? Mother to Maisie, Ellie and Alfred? Wife to Reginald?"
+Mary,Umbridge,Yes
+Umbridge,Mary,A wand was taken from you upon your arrival at the Ministry today. Is this that wand? Would you please tell the court from which witch or wizard you took this wand?
+Mary,Umbridge,"I didn't take it. I got it in Diagon Alley, at OIlivander's, when I was 11. It chose me."
+Umbridge,Mary,"You're lying. Wands only choose witches, and you are not a witch."
+Mary,Umbridge,But I am.
+Umbridge,Harry,"What on earth are you doing, Albert?"
+Harry,Umbridge,"You're lying, Dolores. And one mustn't tell lies."
+Mary,Harry,It'sHarry Potter.
+Ron,Mary,"It is, isn't it? This'll be one to tell the kids."
+Ron,Mary,"Mary, go home. Get the kids. I'll meet you there. We have to get out of the country, understand? Mary, do as I say."
+Ron,Hermoine,"Oh, my God."
+Hermoine,Ron,"Shh, shh, shh. It's all right. It's okay."
+Hermoine,Harry,"Harry.Harry, quickly, in my bag. There's a bottle labeled Essence of Dittany. "
+Hermoine,Ron,Shh. Shh.
+Hermoine,Harry,Quickly. It's all right. Unstopper it.
+Harry,Hermoine,"Hermione, his arm."
+Hermoine,Harry,"I know, just do it."
+Hermoine,Ron,"It's okay. Okay, it's gonna sting a little bit."
+Harry,Hermoine,What happened? I thought we were going back to Grimmauld Place
+Hermoine,Harry,We were
+Hermoine,Ron,"It's all right. One more, one more."
+Hermoine,Harry,"We were there, we were there, but Yaxley had hold of me, and I…I knew once he'd seen where we were, we couldn't stay…...so I brought us here…...but Ron got splinched."
+Harry,Hermoine,It's all right.
+Harry,Hermoine,What are you doing?
+Hermoine,Harry,"Protective enchantments. I don't fancy another visit like the one we had in Shaftesbury Avenue, do you? You can get going on the tent."
+Harry,Hermoine,Where am I supposed to find a tent?
+Hermoine,Harry,You first.
+Hermoine,Harry,What are you doing?
+Harry,Hermoine,We have to keep it safe until we find out how to destroy it.
+Ron,Harry,"Seems strange, mate. Dumbledore sends you off…...to find all these Horcruxes, but doesn't tell you how to destroy them. Doesn't that bother you?"
+Voldermort,Harry,"You know the spell,Harry."
+Voldermort,Gregorovitch,Tell me. Tell me Gregorovitch
+Gregorovitch,Voldermort,It was stolen from me.
+Voldermort,Gregorovitch,Who was he? The thief?
+Gregorovitch,Voldermort,It was a boy. It was he who took it. I never saw it again. I swear on my life.
+Voldermort,Gregorovitch,I believe you.
+Hermoine,Harry,"I thought it had stopped. You can't keep letting him in,Harry."
+Harry,Hermoine,You-Know-Who has found Gregorovitch.
+Hermoine,Harry,The wandmaker?
+Harry,Hermoine,"He wants something that Gregorovitch used to have…...but I don't know what. But he wants it desperately. I mean, it's as if his life depends on it."
+Hermoine,Harry,Don't. It comforts him
+Harry,Hermoine,"It sets my teeth on edge. What's he expecting to hear, good news?"
+Hermoine,Harry,I think he just hopes he doesn't hear bad news.
+Harry,Hermoine,How long before he can travel?
+Hermoine,Harry,I'm doing everything I can.
+Harry,Hermoine,You're not doing enough!
+Hermoine,Harry,"Take it off. I said, take it off now. Better?"
+Harry,Hermoine,Loads
+Hermoine,Harry,"We'll take it in turns, okay?"
+Scabior,Man,What's that? What's that smell? What you doing?
+Man,Scabior,It's heavy
+Scabior,Man,"Oh, sorry. Do you want me to carry it?"
+Man,Scabior,"Yeah, thank you."
+Scabior,Man,Don't be ridiculous. Pick it up.
+Harry,Hermoine,Snatchers. Good to know your enchantments work.
+Hermoine,Harry,He could smell it. My perfume. I've told you…...Ron isn't strong enough to Apparate.
+Harry,Hermoine,"Well, then, we'll go on foot. And next time, Hermione, as much as I like your perfume, just don't wear any."
+Harry,Hermoine,Oh. Thank you.
+Ron,Hermoine,"He doesn't know what he's doing, does he?"
+Hermoine,Ron,None of us do.
+Hermoine,Harry,"Oh, my God."
+Harry,Hermoine,What?
+Hermoine,Harry,I'll tell you in a minute.
+Harry,Hermoine,Maybe you could tell me now.
+Hermoine,Harry,"The sword of Gryffindor, it's goblin-made."
+Harry,Hermoine,Brilliant
+Hermoine,Harry,"No, you don't understand. Dirt and rust have no effect on the blade. It only takes in that which makes it stronger."
+Harry,Hermoine,Okay
+Hermoine,Harry,"Harry, you've already destroyed one Horcrux, right? Tom Riddle's diary in the Chamber of Secrets."
+Harry,Hermoine,With a Basilisk fang. If you tell me you've got one of those…...in that bloody beaded bag of yours…
+Hermoine,Harry,"Don't you see? In the Chamber of Secrets, you stabbed the Basilisk with the sword of Gryffindor. Its blade is impregnated with Basilisk venom."
+Harry,Hermoine,It only takes in that which makes it stronger.
+Hermoine,Harry,"Exactly, which is why"
+Harry,Hermoine,It can destroy Horcruxes
+Hermoine,Harry,That's why Dumbledore left it to you in his will.
+Harry,Hermoine,"You are brilliant, Hermione. Truly."
+Hermoine,Harry,"Actually, I'm highly logical, which allows me to look past extraneous detail…...and perceive clearly that which others overlook."
+Harry,Hermoine,"Yeah, there's only one problem, of course."
+Ron,Harry,"The sword was stolen. Yeah, I'm still here. But you two carry on. Don't let me spoil the fun."
+Harry,Ron,What's wrong?
+Ron,Harry,"Wrong? Nothing's wrong. Not according to you, anyway."
+Harry,Ron,"Look, if you've got something to say, don't be shy. Spit it out."
+Ron,Harry,"All right, I'll spit it out. But don't expect me to be grateful…...because there's another damn thing we've gotta find."
+Harry,Ron,I thought you knew what you signed up for.
+Ron,Harry,Yeah. I thought I did too.
+Harry,Ron,"Well then, I'm sorry, but I don't quite understand. What part of this isn't living up to your expectations? Did you think we were gonna be staying in a hotel? Finding a Horcrux every other day? Thought you'd be back by Christmas?"
+Ron,Harry,"I just thought, after all this time…...we would've achieved something. I thought you knew what you were doing. I thought Dumbledore told you something worthwhile. I thought you had a plan"
+Harry,Ron,"I told you everything that Dumbledore told me. And In case you haven't noticed, we found a Horcrux."
+Ron,Harry,"Yeah, and we're as close to getting rid of it as we are to finding the rest of them."
+Hermoine,Ron,Ron please take…Take the Horcrux off. You wouldn't be saying this…if you hadn't been wearing it all day.
+Ron,Harry,"Want to know why I listen to that radio? To make sure I don't hear Ginny's name, or Fred, or George or Mom."
+Harry,Ron,You think I'm not listening? You think I don't know how this feels?!
+Ron,Harry,"No, you don't know how it feels! Your parents are dead. You have no family."
+Hermoine,Ron,Stop. Stop
+Harry,Ron,"Fine, then go! Go, then! Fine."
+Hermoine,Ron,Ron
+Ron,Hermoine,And you? Are you coming or you staying? Fine. I get it. I saw you two the other night.
+Hermoine,Ron,"Ron, that's... That's nothing. Ron…Ron, where are you going? Please, come back. Ron. Ron!"
+Harry,Hermoine,"Hermione. Hermione? You were right. Snitches have flesh memories…...but I didn't catch the first Snitch with my hand, I almost swallowed it."
+Hermoine,Harry,I open at the close
+Harry,Hermoine,What do you think that means?
+Hermoine,Harry,"I don't know. I found something as well. At first I thought it was an eye, but now I don't think it is. It isn't a rune, and it isn't anywhere in Spellman's Syllabary. Somebody inked it in. It isn't part of the book. Somebody drew it."
+Harry,Hermoine,Luna's dad was wearing that at Bill Weasely and Fleur's wedding.
+Hermoine,Harry,Why would someone draw it in a children's book?
+Harry,Hermoine,"Look, Hermione, I've been thinking. I want to go to Godric's Hollow. It's where I was born. It's where my parents died."
+Hermoine,Harry,That's exactly where he'll expect you to go because it means something to you.
+Harry,Hermoine,"Yeah, but it means something to him too, Hermione. You-Know-Who almost died there. I mean, isn't that exactly the type of place he'd be likely to hide a Horcrux?"
+Hermoine,Harry,"It's dangerous,Harry. But even I have to admit, recently I've been thinking we'll have to go there. I think it's possible something else is hidden there."
+Harry,Hermoine,What?
+Hermoine,Harry,"The sword. If Dumbledore wanted you to find it, but didn't want it in the Ministry's hands…...where better to hide it than the birthplace of the founder of Gryffindor?"
+Harry,Hermoine,Hermoine
+Hermoine,Harry,Don't ever let me give you a haircut again. I still think we should've used Polyjuice Potion.
+Harry,Hermoine,No. This is where I was born. I'm not returning as someone else.
+Hermoine,Harry,"Harry, I think it's Christmas Eve. Listen."
+Harry,Hermoine,"Do you think they'd be in there, Hermione? My mom and dad."
+Hermoine,Harry,"Yeah, I think they would."
+Hermoine,Harry,"Hey,Harry?"
+Harry,Hermoine,"Merry Christmas, Hermione."
+Hermoine,Harry,"Merry Christmas,Harry.Harry, there's someone watching us. By the church."
+Harry,Hermoine,I think I know who that is.
+Hermoine,Harry,"I don't like this,Harry."
+Harry,Hermoine,"Hermione, she knew Dumbledore. She might have the sword. This is where they died, Hermione. This is where he murdered them."
+Harry,Bathilda,"You're Bathilda, aren't you? Here, let me do that. Miss Bagshot, who is this man?"
+Hermoine,Harry,Harry.
+Hermoine,Harry,Harry!    
+Hermoine,Harry,Are you feeling better?
+Harry,Hermoine,"You've outdone yourself this time, Hermione."
+Hermoine,Harry,"The Forest of Dean. I came here once with Mom and Dad, years ago. It's just how I remember it. The trees, the river, everything. Like nothing's changed.  Not true, of course. Everything's changed. If I brought my parents back here now, they probably wouldn't recognize any of it. Not the trees, not the river…...not even me.  Maybe we should just stay here,Harry. Grow old. You wanted to  know who the boy in the photograph was. I know. Gellert Grindelwald. "
+Harry,Hermoine,"He's the thief I saw in Gregorovitch's Wand Shop. Speaking of which, where is my wand? Where's my wand, Hermione?"
+Hermoine,Harry,"As we were leaving Godric's Hollow, I cast a curse and it rebounded. I'm sorry. I tried to mend it, but wands are different"
+Harry,Hermoine,Its done. Leave me yours. Go inside and get warm. I'll take the locket as well.
+Harry,Hermoine,Hermoine?
+Ron,Harry,Are you mental?
+Harry,Ron,It was you?
+Ron,Harry,"Well, yeah. Bit obvious, I think."
+Harry,Ron,"And you cast the doe as well, did you?"
+Ron,Harry,"No, I thought that was you"
+Harry,Ron,"No, my Patronus is a stag"
+Ron,Harry,Right. Yeah. Antlers.
+Harry,Ron,"Okay, Ron. Do it."
+Ron,Harry,I can't handle it. That thing affects me more than it affects you and Hermione.
+Harry,Ron,All the more reason
+Ron,Harry,No. I can't.
+Harry,Ron,"Then why are you here? Why did you come back? Now, I'll have to speak to it in order for it to open. When it does, don't hesitate. I don't know what's in there, but it'll put up a fight. The bit of Riddle that was in that diary tried to kill me."
+Ron,Harry,All right. 
+Voldermort,Ron,"I have seen your heart, and it is mine. I have seen your dreams, Ronald Weasley…and I have seen your fears. Least loved  by your mother, who craved a daughter. Least loved  by the girl who prefers your friend."
+Harry,Ron,"Ron, kill it!"
+Voldermort,Ron,We were better without you. Happier without you. Who could look at you compared toHarry Potter? What are you compared with the Chosen One?
+Harry,Ron,"Ron, it's lying!"
+Voldermort,Ron,Your mother confessed she would have preferred me as a son. What woman would take you? You are nothing. Nothing. Nothing compared to him.
+Ron,Harry,Just think......only three to go.
+Harry,Hermoine,Hermoine?
+Hermoine,Harry,Is everything all right?
+Harry,Hermoine,"It's fine. Actually, you know, it's more than fine."
+Ron,Hermoine,Hey.
+Hermoine,Ron,"You complete ass, Ronald Weasley! You show up here after weeks, and you say ""hey""? Where's my wand? Where's my wand?"
+Harry,Hermoine,I don't know 
+Hermoine,Harry,"Harry Potter, give me my wand"
+Harry,Hermoine,I don't have it
+Ron,Hermoine,How come he's got your wand?
+Hermoine,Ron,Never mind why he's got my wand. What is that? You destroyed it. And how is it that you just happen to have the sword of Gryffindor?
+Harry,Hermoine,It's a long story.
+Hermoine,Ron,Don't think this changes anything.
+Ron,Hermoine,"Oh of course not. I only just destroyed a bloody Horcrux. Why would that change anything? Look, I wanted to come back as soon as I left. I just didn't know how to find you."
+Harry,Ron,"Yeah, how did you find us?"
+Ron,Harry,"With this. It doesn't just turn off lights. I don't know how it works, but Christmas morning I was sleeping in this little pub…...keeping away from some Snatchers..and I heard it."
+Harry,Ron,It?
+Ron,Hermoine,"A voice...your voice, Hermione…coming out of it."
+Hermoine,Ron,And what exactly did I say may I ask?
+Ron,Hermoine,"My Name. Just my name .Like a whisper. So I took it, clicked it, and this tiny ball of light appeared. And I knew. And sure enough, it floated toward me, the ball of light ...went right to my chest, straight through me. Right here. And I knew it was gonna take me  where I needed to go, so I Disapparated......and came to this hillside. It was dark. I had no idea where I was. I just hoped that one of you would show yourself. And you did."
+Ron,Harry,I've always liked these flames Hermione makes. How long do you reckon she'll stay mad at me?
+Harry,Ron,"Well, just keep talking about that little ball of light touching your heart…...and she'll come round."
+Ron,Harry,"It was true. Every word. This is gonna sound crazy…...but I think that's why Dumbledore left it to me, the Deluminator. I think he knew that somehow I'd need it to find my way back, and she'd lead me. Bloody hell, I just realized, you need a wand, don't you?"
+Harry,Ron,Yeah
+Ron,Harry,"I've got one here. It's a blackthorn. Ten inches. Nothing special, but I reckon it'll do. Took if off a Snatcher a couple of weeks ago. Don't tell Hermione this, but they're a bit dim, Snatchers. This one was definitely part troll, the smell of him."
+Hermoine,Harry,What's going on in there?
+Ron,Hermoine,Nothing
+Hermoine,Harry,We need to talk.
+Ron,Hermoine,"Yeah, all right."
+Hermoine,Harry,I want to see Xenophilius Lovegood
+Harry,Hermoine,Sorry?
+Hermoine,Harry,"See this? It's a letter Dumbledore wrote to Grindelwald. Look at the signature. It's the mark again. It keeps cropping up. In Beedle the Bard,  in the graveyard in Godric's Hollow."
+Harry,Hermoine,It was there too. Outside Gregorovitch's Wand Shop.
+Ron,Harry,But what does it mean?
+Hermoine,Harry,"Look, you've got no idea where the next Horcrux is, and neither do I…...but this, this means something. I'm sure of it."
+Ron,Harry,Yeah. Hermione's right. We ought to see Lovegood. Let's vote on it. Those in favor?
+Harry,Hermoine,"You're not still mad at him, are you? "
+Hermoine,Harry,I'm always mad at him.
+Lovegood,Hermoine,What is it? Who are you? What do you want?
+Harry,Lovegood,"Hello, Mr. Lovegood. I'mHarry Potter. Could we come in?"
+Hermoine,Lovegood,Where is Luna?
+Lovegood,Hermoine,She'll be along.
+Lovegood,Harry,"So how can I help you, Mr. Potter?"
+Harry,Lovegood,"Well, actually...It was about something you were wearing round your neck at the wedding. A symbol."
+Lovegood,Harry,You mean this?
+Harry,Lovegood,"Yes. That exactly. What we've wondered is, what is it?"
+Lovegood,Harry,"What is it? Well, it's the sign of the Deathly Hallows, of course."
+Ron,Lovegood,The what?
+Hermoine,Lovegood,The what?
+Lovegood,Ron,Deathly Hallows
+Lovegood,Hermoine,Deathly Hallows
+Lovegood,Ron,I assume you're all familiar with The Tale of the Three Brothers.
+Lovegood,Hermoine,I assume you're all familiar with The Tale of the Three Brothers.
+Lovegood,Harry,I assume you're all familiar with The Tale of the Three Brothers.
+Ron,Lovegood,Yes 
+Hermoine,Lovegood,Yes 
+Harry,Lovegood,No
+Hermoine,Harry,I have it in here.
+Hermoine,Harry,"There were once three brothers......who were traveling along a Ionely, winding road at twilight."
+Ron,Hermoine,"Midnight. Mom always said ""midnight."" "
+Ron,Harry,"Midnight. Mom always said ""midnight."" But ""twilight's"" fine. Better, actually."
+Hermoine,Ron,Do you want to read it?
+Ron,Hermoine,No its fine
+Lovegood,Harry,So there you are. Those are the Deathly Hallows.
+Harry,Lovegood,"I'm sorry, sir. I still don't quite understand."
+Lovegood,Harry,"Where's that pen I had? The Elder Wand. The most powerful wand ever made. The Resurrection Stone. The Cloak of Invisibility. Together, they make the Deathly Hallows. Together, they make one master of Death."
+Lovegood,Ron,"Where's that pen I had? The Elder Wand. The most powerful wand ever made. The Resurrection Stone. The Cloak of Invisibility. Together, they make the Deathly Hallows. Together, they make one master of Death."
+Lovegood,Hermoine,"Where's that pen I had? The Elder Wand. The most powerful wand ever made. The Resurrection Stone. The Cloak of Invisibility. Together, they make the Deathly Hallows. Together, they make one master of Death."
+Hermoine,Lovegood,"That mark was on a grave in Godric's Hollow. Uh, Mr. Lovegood, does the Peverell Family…"
+Lovegood,Hermoine,Uh... Uh….. Ignotus... Excuse me... . And his brothers...Cadmus and Antioch…are thought to be the original owners of the Hallows…...and therefore the inspiration for the story. Uh... Uh…But your tea's gone cold. I'll be right back.
+Lovegood,Ron,Uh... Uh….. Ignotus... Excuse me... . And his brothers...Cadmus and Antioch…are thought to be the original owners of the Hallows…...and therefore the inspiration for the story. Uh... Uh…But your tea's gone cold. I'll be right back.
+Lovegood,Harry,Uh... Uh….. Ignotus... Excuse me... . And his brothers...Cadmus and Antioch…are thought to be the original owners of the Hallows…...and therefore the inspiration for the story. Uh... Uh…But your tea's gone cold. I'll be right back.
+Ron,Harry,"Let's get out of here. I'm not drinking any more of that stuff, hot or cold."
+Hermoine,Lovegood,"Thank you, sir."
+Ron,Lovegood,You forgot the water
+Lovegood,Ron,Water?
+Ron,Lovegood,For the tea
+Lovegood,Ron,Did...? Did I? How silly of me.
+Hermoine,Lovegood,It's no matter. We really should be going anyway.
+Lovegood,Hermoine,"No, you can't!"
+Harry,Lovegood,Sir?
+Lovegood,Harry,"You're my only hope. They were angry, you see, about what I'd been writing. So they took her. They took my Luna. My Luna. But it's really you they want."
+Harry,Lovegood,"Who took her, sir?"
+Lovegood,Harry,Voldemort.
+Ron,Harry,That treacherous little bleeder. Is there no one we can trust?
+Harry,Ron,They kidnapped her because he supported me. He was just desperate.
+Ron,Harry,I'll do the enchantments.
+Voldermort,Grindelwald,"Tell me, Grindelwald. Tell me where it is."
+Grindelwald,Voldermort,"Hello, Tom. I knew you would come one day…...but surely you must know I no longer have what you seek."
+Voldermort,Grindelwald,Tell me who possesses it.
+Grindelwald,Voldermort,"The Elder Wand lies with him, of course…...buried in the earth. Dumbledore."
+Harry,Hermoine,"The Hallows exist......but he's only after one of them,the last one. He knows where it is.He's gonna have it by the end of the night.You-Know-Who's found the Elder Wand."
+Bellatrix,Draco,Well?
+Draco,Bellatrix,I  can't be sure.
+Lucius,Draco,"Draco. Look closely, son. If we are the ones to hand Potter over to the Dark Lord…...everything would be forgiven. All would be as it was, you understand?"
+Draco,Lucius,"Now, we won't be forgetting who actually caught him, I hope, Mr. Malfoy."
+Lucius,Draco,You dare to talk to me like that in my own house?
+Bellatrix,Draco,"Don't be shy, sweetie. Come over. Now, if this isn't who we think it is, Draco, and we call him, he'll kill us all. We need to be absolutely sure."
+Draco,Bellatrix,What's wrong with his face?
+Bellatrix,Scabior,"Yes, what is wrong with his face?"
+Scabior,Bellatrix,"He came to us like that. Something he picked up in the forest, I reckon."
+Bellatrix,Hermoine,"Or ran into a Stinging Jinx. Was it you, dearie?"
+Bellatrix,Hermoine,"I want to have a little conversation with this one, girl-to-girl."
+Ron,Harry,What are we gonna do? We can't leave Hermione alone with her.
+Luna,Ron,Ron
+Luna,Harry,Harry
+Harry,Luna,Luna
+Bellatrix,Hermoine,That sword is meant to be in my vault at Gringotts. How did you get it? What else did you and your friends take from my vault?!
+Hermoine,Bellatrix,I didn't take anything. Please. I didn’t take anything
+Bellatrix,Hermoine,I don't believe it.
+Ron,Harry,We have to do something.
+Luna,Harry,You are bleedingHarry. That's a curious thing to keep in your sock.
+Ron,Wormtail,Let her go
+Wormtail,Ron,Shut up. Get back.
+Wormtail,Griphook,"You, goblin, come with me."
+Harry,Dobby,Dobby? What are you doing here?
+Dobby,Harry,"Dobby has come to rescueHarry Potter, of course. Dobby will always be there forHarry Potter."
+Harry,Dobby,You can Apparate in and out of this room? Could you take us with you?
+Dobby,Harry,"Of course, sir. I'm an elf."
+Ron,Harry,Works for me.
+Harry,Dobby,"Dobby, I want you to take Luna and Mr. OIlivander…"
+Ron,Dobby,Shell Cottage on the outskirts of Tinworth.
+Luna,Dobby,"Whenever you're ready, sir."
+Dobby,Luna,Sir? I like her very much.
+Dobby,Harry,Meet me at the top of the stairs.Who gets his wand?
+Dobby,Ron,Meet me at the top of the stairs. Who gets his wand?
+Bellatrix,Griphook,"I'm only going to ask you once more, goblin. Think very, very carefully before you answer."
+Griphook,Bellatrix,I don't know.
+Bellatrix,Griphook,You don't know? Why weren't you doing your job? Who got into my vault? Who stole it? Who stole it? Well?
+Griphook,Bellatrix,"When I was last in your vault, the sword was there."
+Bellatrix,Griphook,"Oh, well then, perhaps it just walked out on its own then."
+Griphook,Bellatrix,There is no place safer than Gringotts.
+Bellatrix,Griphook,"Liar! Consider yourself lucky, goblin."
+Bellatrix,Ron,"Stop! Drop your wands. I said, drop them!"
+Bellatrix,Harry,"Stop! Drop your wands. I said, drop them!"
+Bellatrix,Draco,"Pick them up, Draco, now."
+Bellatrix,Harry,"Well, well, well, look what we have here. It'sHarry Potter. He's all bright and shiny and new again, just in time for the Dark Lord."
+Bellatrix,Ron,"Well, well, well, look what we have here. It'sHarry Potter. He's all bright and shiny and new again, just in time for the Dark Lord."
+Bellatrix,Draco,Call him.
+Bellatrix,Dobby,Stupid elf. You could've killed me.
+Dobby,Bellatrix,Dobby never meant to kill.  Dobby only meant to maim or seriously injure.
+Bellatrix,Dobby,How dare you take a witch's wand? How dare you defy your masters?
+Dobby,Bellatrix,Dobby has no master. Dobby is a free elf. And Dobby has come to saveHarry Potter and his friends.
+Harry,Hermoine,Hermoine. You're all right. We're safe. We're all safe.
+Dobby,Harry,Harry Potter.
+Harry,Dobby,"Dobby. Dobby. No, just... Hold on. Hold on. Look, just hold on, okay? We'll fix you. Hermione will have something. "
+Harry,Hermoine,In your bag. Hermione? Hermione? What is it? Help me.
+Dobby,Harry,Such a beautiful place......to be with friends. Dobby is happy to be with his friend…...Harry Potter.
+Luna,Harry,We should close his eyes. Don't you think? There. Now he could be sleeping.
+Harry,Luna,I want to bury him. Properly. Without magic.
+Harry,Ron,I want to bury him. Properly. Without magic.
+Harry,Hermoine,I want to bury him. Properly. Without magic.
+,,
+,,
